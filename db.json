@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "my-server-updated",
+      "author": "gulalicelik"
+    },
+    {
+      "title": "my-server-2",
+      "author": "gulalicelik-2",
+      "id": 3
+    },
+    {
+      "title": "my-server-2",
+      "author": "gulalicelik-2",
+      "id": 4
+    },
+    {
+      "title": "my-server-2",
+      "author": "gulalicelik-2",
+      "id": 5
+    },
+    {
+      "title": "my-server-2",
+      "author": "gulalicelik-2",
+      "id": 6
+    },
+    {
+      "title": "my-server-2",
+      "author": "gulalicelik-2",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "lorem  ipsum",
+      "author": "gulalicelik"
+    }
+  ]
+}
